@@ -1,0 +1,10 @@
+D:\work\asp.net C#\Csharp-projects-main\Calculator\bin\Debug\SlidingPanelForm.exe.config
+D:\work\asp.net C#\Csharp-projects-main\Calculator\bin\Debug\SlidingPanelForm.exe
+D:\work\asp.net C#\Csharp-projects-main\Calculator\bin\Debug\SlidingPanelForm.pdb
+D:\work\asp.net C#\Csharp-projects-main\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\work\asp.net C#\Csharp-projects-main\Calculator\obj\Debug\SlidingPanelForm.SlidingForm.resources
+D:\work\asp.net C#\Csharp-projects-main\Calculator\obj\Debug\SlidingPanelForm.Properties.Resources.resources
+D:\work\asp.net C#\Csharp-projects-main\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\work\asp.net C#\Csharp-projects-main\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\Csharp-projects-main\Calculator\obj\Debug\SlidingPanelForm.exe
+D:\work\asp.net C#\Csharp-projects-main\Calculator\obj\Debug\SlidingPanelForm.pdb
